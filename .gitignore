@@ -1,0 +1,6 @@
+#General
+vendor
+
+#Composer files
+composer.json
+composer.lock
